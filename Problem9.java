@@ -16,7 +16,8 @@ public class Problem9 {
     }
 
     public static void main(String[] args) {
-        System.out.println(isSpecial(5));
+        System.out.println(isSpecial(59));
+        System.out.println(isSpecial(46));
         
     }
 }

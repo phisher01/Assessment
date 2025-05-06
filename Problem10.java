@@ -25,7 +25,11 @@ public class Problem10 {
     } 
     public static void main(String[] args) {
         int arr[]={3,1,7,10,0,4,2};
+        int arr2[]={3,1,7,101,99,45,82,25,147};
+        
+
         System.out.println(secondLarge(arr));
+        System.out.println(secondLarge(arr2));
         
     }
 }
